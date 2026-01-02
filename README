@@ -1,0 +1,4 @@
+Input in terminal
+- py -3.12 -m venv mp_env
+- mp_env\Scripts\activate
+- py main.py
